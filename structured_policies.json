@@ -1,0 +1,4790 @@
+[
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 1,
+    "description": "SSH root login must be disabled",
+    "target_config": "sshd_config PermitRootLogin",
+    "expected_value": "no",
+    "notes": "Test policy extracted"
+  },
+  {
+    "policy_id": 2,
+    "description": "Password authentication must be disabled",
+    "target_config": "sshd_config PasswordAuthentication",
+    "expected_value": "no",
+    "notes": ""
+  }
+]

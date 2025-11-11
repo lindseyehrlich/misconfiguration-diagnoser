@@ -1,0 +1,14 @@
+[
+  {
+    "policy_id": 1,
+    "compliant": false,
+    "current_value": "yes",
+    "explanation": "PermitRootLogin is set to yes, expected no"
+  },
+  {
+    "policy_id": 2,
+    "compliant": true,
+    "current_value": "no",
+    "explanation": "Compliant"
+  }
+]
